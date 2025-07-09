@@ -1,0 +1,424 @@
+/* Dana Font Faces */
+@font-face {
+  font-family: 'Dana';
+  src: 
+    url('../public/fonts/dana/woff2/Dana-Black.woff2') format('woff2'),
+    url('../public/fonts/dana/woff/Dana-Black.woff') format('woff'),
+    url('../public/fonts/dana/Dana-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dana';
+  src: 
+    url('../public/fonts/dana/woff2/Dana-ExtraBold.woff2') format('woff2'),
+    url('../public/fonts/dana/woff/Dana-ExtraBold.woff') format('woff'),
+    url('../public/fonts/dana/Dana-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dana';
+  src: 
+    url('../public/fonts/dana/woff2/Dana-Bold.woff2') format('woff2'),
+    url('../public/fonts/dana/woff/Dana-Bold.woff') format('woff'),
+    url('../public/fonts/dana/Dana-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dana';
+  src: 
+    url('../public/fonts/dana/woff2/Dana-DemiBold.woff2') format('woff2'),
+    url('../public/fonts/dana/woff/Dana-DemiBold.woff') format('woff'),
+    url('../public/fonts/dana/Dana-DemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dana';
+  src: 
+    url('../public/fonts/dana/woff2/Dana-Medium.woff2') format('woff2'),
+    url('../public/fonts/dana/woff/Dana-Medium.woff') format('woff'),
+    url('../public/fonts/dana/Dana-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dana';
+  src: 
+    url('../public/fonts/dana/woff2/Dana-Regular.woff2') format('woff2'),
+    url('../public/fonts/dana/woff/Dana-Regular.woff') format('woff'),
+    url('../public/fonts/dana/Dana-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dana';
+  src: 
+    url('../public/fonts/dana/woff2/Dana-Light.woff2') format('woff2'),
+    url('../public/fonts/dana/woff/Dana-Light.woff') format('woff'),
+    url('../public/fonts/dana/Dana-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dana';
+  src: 
+    url('../public/fonts/dana/woff2/Dana-Thin.woff2') format('woff2'),
+    url('../public/fonts/dana/woff/Dana-Thin.woff') format('woff'),
+    url('../public/fonts/dana/Dana-Thin.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dana';
+  src: 
+    url('../public/fonts/dana/woff2/Dana-UltraLight.woff2') format('woff2'),
+    url('../public/fonts/dana/woff/Dana-UltraLight.woff') format('woff'),
+    url('../public/fonts/dana/Dana-UltraLight.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dana';
+  src: 
+    url('../public/fonts/dana/woff2/Dana-Hairline.woff2') format('woff2'),
+    url('../public/fonts/dana/woff/Dana-Hairline.woff') format('woff'),
+    url('../public/fonts/dana/Dana-Hairline.ttf') format('truetype');
+  font-weight: 50;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dana';
+  src: 
+    url('../public/fonts/dana/woff2/Dana-fat.woff2') format('woff2'),
+    url('../public/fonts/dana/woff/Dana-fat.woff') format('woff'),
+    url('../public/fonts/dana/Dana-Fat.ttf') format('truetype');
+  font-weight: 950;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dana';
+  src: 
+    url('../public/fonts/dana/woff2/Dana-ExtraBlack.woff2') format('woff2'),
+    url('../public/fonts/dana/woff/Dana-ExtraBlack.woff') format('woff'),
+    url('../public/fonts/dana/Dana-ExtraBlack.ttf') format('truetype');
+  font-weight: 1000;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dana';
+  src: 
+    url('../public/fonts/dana/woff2/Dana-Heavy.woff2') format('woff2'),
+    url('../public/fonts/dana/woff/Dana-Heavy.woff') format('woff'),
+    url('../public/fonts/dana/Dana-Heavy.ttf') format('truetype');
+  font-weight: 850;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* IRANSansX Font Faces */
+@font-face {
+  font-family: 'IRANSansX';
+  src: 
+    url('../public/fonts/iransanx/woff2/IRANSansX-Black.woff2') format('woff2'),
+    url('../public/fonts/iransanx/woff/IRANSansX-Black.woff') format('woff'),
+    url('../public/fonts/iransanx/IRANSansX-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'IRANSansX';
+  src: 
+    url('../public/fonts/iransanx/woff2/IRANSansX-ExtraBold.woff2') format('woff2'),
+    url('../public/fonts/iransanx/woff/IRANSansX-ExtraBold.woff') format('woff'),
+    url('../public/fonts/iransanx/IRANSansX-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'IRANSansX';
+  src: 
+    url('../public/fonts/iransanx/woff2/IRANSansX-Bold.woff2') format('woff2'),
+    url('../public/fonts/iransanx/woff/IRANSansX-Bold.woff') format('woff'),
+    url('../public/fonts/iransanx/IRANSansX-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'IRANSansX';
+  src: 
+    url('../public/fonts/iransanx/woff2/IRANSansX-DemiBold.woff2') format('woff2'),
+    url('../public/fonts/iransanx/woff/IRANSansX-DemiBold.woff') format('woff'),
+    url('../public/fonts/iransanx/IRANSansX-DemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'IRANSansX';
+  src: 
+    url('../public/fonts/iransanx/woff2/IRANSansX-Medium.woff2') format('woff2'),
+    url('../public/fonts/iransanx/woff/IRANSansX-Medium.woff') format('woff'),
+    url('../public/fonts/iransanx/IRANSansX-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'IRANSansX';
+  src: 
+    url('../public/fonts/iransanx/woff2/IRANSansX-Regular.woff2') format('woff2'),
+    url('../public/fonts/iransanx/woff/IRANSansX-Regular.woff') format('woff'),
+    url('../public/fonts/iransanx/IRANSansX-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'IRANSansX';
+  src: 
+    url('../public/fonts/iransanx/woff2/IRANSansX-Light.woff2') format('woff2'),
+    url('../public/fonts/iransanx/woff/IRANSansX-Light.woff') format('woff'),
+    url('../public/fonts/iransanx/IRANSansX-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'IRANSansX';
+  src: 
+    url('../public/fonts/iransanx/woff2/IRANSansX-UltraLight.woff2') format('woff2'),
+    url('../public/fonts/iransanx/woff/IRANSansX-UltraLight.woff') format('woff'),
+    url('../public/fonts/iransanx/IRANSansX-UltraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'IRANSansX';
+  src: 
+    url('../public/fonts/iransanx/woff2/IRANSansX-Thin.woff2') format('woff2'),
+    url('../public/fonts/iransanx/woff/IRANSansX-Thin.woff') format('woff'),
+    url('../public/fonts/iransanx/IRANSansX-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'IRANSansX';
+  src: 
+    url('../public/fonts/iransanx/woff2/IRANSansX-ExtraBlack.woff2') format('woff2'),
+    url('../public/fonts/iransanx/woff/IRANSansX-ExtraBlack.woff') format('woff'),
+    url('../public/fonts/iransanx/IRANSansX-ExtraBlack.ttf') format('truetype');
+  font-weight: 950;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'IRANSansX';
+  src: 
+    url('../public/fonts/iransanx/woff2/IRANSansX-Heavy.woff2') format('woff2'),
+    url('../public/fonts/iransanx/woff/IRANSansX-Heavy.woff') format('woff'),
+    url('../public/fonts/iransanx/IRANSansX-Heavy.ttf') format('truetype');
+  font-weight: 850;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vazir';
+  src: 
+    url('../public/fonts/vazir/Vazir-Bold-FD-WOL.woff2') format('woff2'),
+    url('../public/fonts/vazir/Vazir-Bold-FD-WOL.woff') format('woff'),
+    url('../public/fonts/vazir/vazir-bold-fd-wol.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vazir';
+  src: 
+    url('../public/fonts/vazir/Vazir-Medium-FD-WOL.woff2') format('woff2'),
+    url('../public/fonts/vazir/Vazir-Medium-FD-WOL.woff') format('woff'),
+    url('../public/fonts/vazir/vazir-medium-fd-wol.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vazir';
+  src: 
+    url('../public/fonts/vazir/Vazir-Light-FD-WOL.woff2') format('woff2'),
+    url('../public/fonts/vazir/Vazir-Light-FD-WOL.woff') format('woff'),
+    url('../public/fonts/vazir/vazir-light-fd-wol.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vazir';
+  src: 
+    url('../public/fonts/vazir/Vazir-Thin-FD-WOL.woff2') format('woff2'),
+    url('../public/fonts/vazir/Vazir-Thin-FD-WOL.woff') format('woff'),
+    url('../public/fonts/vazir/vazir-thin-fd-wol.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Vazirmatn Font Faces */
+@font-face {
+  font-family: 'Vazirmatn';
+  src: 
+    url('../public/fonts/vazir/vazirmatn-black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vazirmatn';
+  src: 
+    url('../public/fonts/vazir/vazirmatn-extrabold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vazirmatn';
+  src: 
+    url('../public/fonts/vazir/vazirmatn-bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vazirmatn';
+  src: 
+    url('../public/fonts/vazir/vazirmatn-semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vazirmatn';
+  src: 
+    url('../public/fonts/vazir/vazirmatn-medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vazirmatn';
+  src: 
+    url('../public/fonts/vazir/vazirmatn-regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vazirmatn';
+  src: 
+    url('../public/fonts/vazir/vazirmatn-light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vazirmatn';
+  src: 
+    url('../public/fonts/vazir/vazirmatn-extralight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vazirmatn';
+  src: 
+    url('../public/fonts/vazir/vazirmatn-thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --fvazir: "Vazir";
+  --firansansx: "IRANSansX";
+  --fdana: "Dana";
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.fdana {
+  font-family: "Dana";
+}
+
+.fvazir {
+  font-family: "Vazir";
+}
+
+.firansansx,
+.firanxsans {
+  font-family: "IRANSansX";
+}
+
+body , input , button {
+  font-family: "Vazir", "Dana", "IRANSansX", sans-serif;
+}
+
+.Toastify__toast {
+  font-family: unset !important;
+}
